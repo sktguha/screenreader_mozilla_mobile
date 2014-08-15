@@ -3,8 +3,7 @@ INTRODUCTION
 Hello,
 Basically this is a mobile application for the android platform to read aloud the text of web page in a browser(i.e mozilla firefox).
 This helps in reducing eyestrain and increased productivity. you can also check my similiar chrome extension (for pc, not part of this project)
-you can read this or view the video tutorials on my youtube page https://www.youtube.com/channel/UC2gybACHFQFWuCdihXcPM6w
-my username is sktguha@gmail.com
+you can read this or view the video tutorials on my youtube page.
 
 This is accomplished by two seperate application and this can be viewed as client-server application model.
 1.client application is an add-on for mozilla firefox for android, a single file in *.xpi (mozilla firefox add-on) format
