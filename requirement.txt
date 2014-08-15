@@ -1,0 +1,2 @@
+reading of documents on phone can cause eyestrain problems. Hence a tts application can allow user to hear aloud the text. Also useful for blind person.I believe that it is the first add-on for firefox android web-browser to read aloud content of any web page.
+Also the application does not require a net connection so user can very easily open an offline html document and have it read out aloud by using the screenreader

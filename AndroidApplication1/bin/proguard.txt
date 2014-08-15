@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:8
+-keep class screenreader.screenreader.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:13
+-keepclassmembers class * { *** start(...); }
+
+# onClick res/layout/main.xml #generated:19
+-keepclassmembers class * { *** test(...); }
+

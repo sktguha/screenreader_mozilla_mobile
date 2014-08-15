@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:id="@+id/msg1"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Click on start screenreader server button to start"
+    />
+   <Button 
+      android:text="start screenreader server"
+      android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="start"
+/>
+    <Button 
+      android:text="Test tts"
+      android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="test"
+/>
+    <TextView  
+    android:id="@+id/msg1"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Enter your own pronounciations for words in the text field below. enter as oldword:newword. for e.x i.e:that is and put each on new line"
+    />
+    <EditText android:id="@+id/subs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="enter as oldword:newword ex- i.e:that is" />
+    
+</LinearLayout>
+
